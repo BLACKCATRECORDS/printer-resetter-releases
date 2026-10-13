@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:epson="https://righturn.invalid/epson/reviewed-release/v1" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Printer Resetter for EPSON</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 13 Oct 2026 18:40:04 +0800</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/BLACKCATRECORDS/printer-resetter-releases/releases/download/v1.0.0/Printer-Resetter-1.0.0-build16-macOS-arm64.zip" length="2508744" type="application/octet-stream" sparkle:edSignature="/m3M/tkPbKRI2rgfEmJ9NcAVFJc1d79Pg2i5WQNAeZoXYXT9NbwLw1dvF7LefRtdDDs71VkzBvq0qZDLcP8LCw=="></enclosure>
+        <epson:reviewedRelease>eyJhcHBCdWlsZCI6IjE2IiwiYXBwVmVyc2lvbiI6IjEuMC4wIiwiYXJjaGl0ZWN0dXJlcyI6WyJhcm02NCJdLCJhcmNoaXZlU0hBMjU2IjoiYThiNzY1ZTI3NWI1ZDc3Y2E4Yjc0MGU5YzJiMTk0YWRlMDZkNTZlNDFjMmJlYjQ0NWI4MDEyOTQyNzg4ZWRmOCIsImJ1bmRsZUlkZW50aWZpZXIiOiJzdHVkaW8uYmxhY2tjYXQuZXBzb24tcHJpbnRlci1zdHVkaW8iLCJjaGFuZ2VLaW5kIjoibWFpbnRlbmFuY2UiLCJkYXRhYmFzZVNIQTI1NiI6IjdiMjM4MzBjMTBkMTc3OGU2YjYyZjM5MWFlMGZhNmFlNDRmNWQyZGU0OTgxNmYyNjVjZjc1MDE1NTBlMGU3ZTQiLCJoYXJkd2FyZUFjY2Vzc0Rpc2FibGVkIjpmYWxzZSwiaGVscGVyVmVyc2lvbiI6IjAuNC4wLXJlc2V0LXZhbGlkYXRpb24iLCJyZWxlYXNlS2luZCI6ImZ1bGwtYXBwIiwicmV2aWV3UmVjb3JkU0hBMjU2IjoiYjRjZmMyMjIyOTBiMGIxMzhmODVlMDRlZTNiYWFlMjg2MmZiMGVmMmM5NmE5MzI0MDBhMmJmMGM3ZjA2MjNlYiIsInNhZmV0eUNvbnRyYWN0IjoiZXBzb24tc3RyaWN0LXYxIiwic2NoZW1hIjoxLCJ0cnVzdE1vZGUiOiJwZXJzb25hbC10ZXN0IiwidXBkYXRlQ2hhbm5lbCI6Im5vcm1hbC10ZXN0IiwidXBzdHJlYW1Db21taXQiOiJjZDRjNDk4NGYxNTFkM2FlZDRmOGEwMGNlYmNkNjNhNTlhY2M4ZDY5IiwidXBzdHJlYW1WZXJzaW9uIjoiMS40LjEifQ==</epson:reviewedRelease></item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: kZUvoH5JkLNqqoQ8QBkmTSjJJqj4WOStfoSXRxTPfiLzqcwPV2JW8lKXHtUIonKZon/inioFt2ytkccq/Oc0Bg==
+length: 2244
+-->
